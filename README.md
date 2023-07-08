@@ -1,8 +1,7 @@
 ## Task Management App
 This is a simple task management application that allows you to add, view, and manage tasks.
-<br><br>
+<br>
 ## Deployed Link: https://todo-next-js-weld.vercel.app/
-
 <br>
 
 Features
@@ -10,8 +9,7 @@ Add tasks with a title and description
 Mark tasks as completed
 Delete tasks
 Edit task titles and descriptions
-
-<br><br>
+<br>
 ## Landing Page
 ![Screenshot (422)](https://github.com/ishwersharma13/todo_nextJS/assets/103954615/7c7ea43c-5eaf-4886-8701-2620204c5a77)
 <br><br>
@@ -38,7 +36,7 @@ Edit task titles and descriptions
 <br><br>
 
 
-Technologies Used
+Technologies Used <br>
 =>Next.js:  Next.js ured as the framework for building the application. <br>
 =>TypeScript: Used for codebase in TypeScript to ensure type safety and improve maintainability.<br>
 =>Tailwind CSS: Utilized Tailwind CSS for styling and layout purposes.<br>
