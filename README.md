@@ -1,48 +1,53 @@
-Task Management App
+## Task Management App
 This is a simple task management application that allows you to add, view, and manage tasks.
+<br><br>
+
+## Deployed Link: https://todo-next-js-weld.vercel.app/
+
+<br><br>
 
 Features
 Add tasks with a title and description
 Mark tasks as completed
 Delete tasks
 Edit task titles and descriptions
+
+<br><br>
+## Landing Page
+![Screenshot (422)](https://github.com/ishwersharma13/todo_nextJS/assets/103954615/7c7ea43c-5eaf-4886-8701-2620204c5a77)
+<br><br>
+
+## Adding Task with description
+![Screenshot (423)](https://github.com/ishwersharma13/todo_nextJS/assets/103954615/4e294a8f-a61f-4b1f-b0e7-ea9c99cd8c77)
+<br><br>
+
+## Edit task after adding
+![Screenshot (424)](https://github.com/ishwersharma13/todo_nextJS/assets/103954615/66af4619-71e6-4a68-92f1-f439ffbe460e)
+<br><br>
+
+## Mark as completed
+![Screenshot (425)](https://github.com/ishwersharma13/todo_nextJS/assets/103954615/a576f9e3-c0e0-4991-bf0f-0fef6526d2ee)
+<br><br>
+
+##Completed Task
+![Screenshot (427)](https://github.com/ishwersharma13/todo_nextJS/assets/103954615/aebac49b-88a5-41b6-a75d-a8e998e43ca6)
+<br><br>
+
+
+## Incompleted tasks
+![Screenshot (426)](https://github.com/ishwersharma13/todo_nextJS/assets/103954615/07d50b65-cf40-4184-a130-e24cd77962d6)
+<br><br>
+
+
 Technologies Used
-React
-TypeScript
-Getting Started
-To get started with the project, follow the steps below:
+=>Next.js:  Next.js ured as the framework for building the application.
+=>TypeScript: Used for codebase in TypeScript to ensure type safety and improve maintainability.
+=>Tailwind CSS: Utilized Tailwind CSS for styling and layout purposes.
+=>Git: Used Git for version control and provide a Git repository with your project.
 
-Clone the repository:
+<br><br>
 
-shell
-Copy code
-git clone <repository-url>
-Install the dependencies:
 
-shell
-Copy code
-cd task-management-app
-npm install
-Start the development server:
 
-shell
-Copy code
-npm start
-Open your browser and visit http://localhost:3000 to view the application.
 
-Usage
-Adding Tasks: On the homepage, you can use the "Add Task" form to add a new task. Enter the title and description of the task, and click the "Add" button.
 
-Viewing Tasks: The list of tasks will be displayed below the "Add Task" form, showing the title and description of each task. Completed tasks will be marked as checked.
-
-Marking Tasks as Completed: To mark a task as completed, click on the checkbox next to the task.
-
-Deleting Tasks: To delete a task, click on the "Delete" button next to the task.
-
-Editing Tasks: To edit a task's title or description, click on the "Edit" button next to the task. A form will appear where you can make the desired changes. Click "Save" to save the changes or "Cancel" to discard them.
-
-License
-This project is licensed under the MIT License.
-
-Contributing
-Contributions are welcome! If you find any issues or want to enhance the application, feel free to submit a pull request.
