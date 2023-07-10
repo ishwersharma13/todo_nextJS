@@ -4,11 +4,11 @@ This is a simple task management application that allows you to add, view, and m
 ## Deployed Link: https://todo-next-js-weld.vercel.app/
 <br>
 
-Features
-Add tasks with a title and description
-Mark tasks as completed
-Delete tasks
-Edit task titles and descriptions
+Features <br>
+Add tasks with a title and description <br>
+Mark tasks as completed <br>
+Delete tasks <br>
+Edit task titles and descriptions <br>
 <br>
 ## Landing Page
 ![Screenshot (422)](https://github.com/ishwersharma13/todo_nextJS/assets/103954615/7c7ea43c-5eaf-4886-8701-2620204c5a77)
